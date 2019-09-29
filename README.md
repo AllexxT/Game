@@ -2,7 +2,7 @@
 Python console application-game with two members Human and Computer.
 
 ## Getting Started
-File launcher is the game.py
+File launcher is the game.py.
 
 For launching game need to enter:
 
@@ -17,3 +17,6 @@ Example:
 ```
 python game.py 150
 ```
+
+#### Requires 
+Installed Python v3+.
