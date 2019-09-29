@@ -1,7 +1,7 @@
 # Program for second tour of courses Light IT
 Console application-game with two members Human and Computer.
 
-# Getting Started
+## Getting Started
 File launcher is game.py
 
 So for launching game you must enter:
