@@ -1,5 +1,5 @@
 """
-Main module what launch game.
+Main module what launch the game.
 Contains argv flag to set Units health.
 """
 import sys
