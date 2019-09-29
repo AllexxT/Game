@@ -1,10 +1,10 @@
 # Program for second tour of courses Light IT
-Console application-game with two members Human and Computer.
+Python console application-game with two members Human and Computer.
 
 ## Getting Started
-File launcher is game.py
+File launcher is the game.py
 
-So for launching game you must enter:
+For launching game need to enter:
 
 ```
 python game.py
