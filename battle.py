@@ -21,11 +21,11 @@ class Battle:
                 break
             if fighter != dealer:
                 dealer.next_step(fighter)
-                time.sleep(0.3)
+                time.sleep(0.1)
                 if fighter.health <= 0:
                     self.players.remove(fighter)
                     print('%s is Killed by %s\n' % (fighter.name, dealer.name))
-                    time.sleep(1)
+                    time.sleep(0.2)
 
     def next_damage_dealer(self):
         """Randomly get next damage dealer from players list"""
