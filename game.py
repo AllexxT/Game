@@ -23,11 +23,11 @@ player = Unit(health=health, name='Human')
 # Creating battle with created Units
 battle = Battle(computer, player)
 
-print('Hello, we have two default players\n %s and\n %s' % (computer, player))
+print('Hello, we have two players\n %s and\n %s' % (computer, player))
 
-input('Press any key to start fight!\n')
+input('Press any key to start a fight!\n')
 
 # Starting fight
 battle.fight()
 
-input()
+input('\nPress any key to exit game')
