@@ -18,5 +18,5 @@ Example:
 python game.py 150
 ```
 
-#### Requires 
+#### Requirements
 Installed Python v3+.
