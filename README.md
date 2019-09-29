@@ -11,6 +11,7 @@ python game.py
 ```
 
 Launcher takes one optional argument, which can set the health of members of the game:
+
 Example:
 
 ```
