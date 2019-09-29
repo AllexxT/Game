@@ -30,4 +30,4 @@ input('Press any key to start a fight!\n')
 # Starting fight
 battle.fight()
 
-input('\nPress any key to exit the game...')
+input('\nPress enter to exit the game...')
