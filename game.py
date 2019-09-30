@@ -18,12 +18,12 @@ if len(sys.argv) > 1:
 
 # Creating Units
 computer = Unit(health=health, heal_boost=True)
-player = Unit(health=health, name='Human')
+human = Unit(health=health, name='Human')
 
 # Creating battle with created Units
-battle = Battle(computer, player)
+battle = Battle(computer, human)
 
-print('Hello, we have two players.\n\n %s and\n %s' % (computer, player))
+print('Hello, we have two players.\n\n %s and\n %s' % (computer, human))
 
 input('Press any key to start a fight!\n')
 
