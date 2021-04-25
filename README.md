@@ -1,4 +1,3 @@
-# Program for second tour of courses Light IT
 Python console application-game with two members Human and Computer
 
 ## Getting Started
